@@ -1,0 +1,1 @@
+kohya_controllllite_xl_canny.safetensors
